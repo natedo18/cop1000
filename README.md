@@ -6,4 +6,4 @@ My first GIT repo.
 
 1. README.md - This README file
 1. test.sh - Simple test script
-
+1. script/ Chapter Program scripts
